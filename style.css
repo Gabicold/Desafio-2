@@ -1,0 +1,15 @@
+body{
+    justify-content: center;
+    height: 100vh;
+    align-items:center;
+    display: flex;
+    background-color: aquamarine;
+}
+h1{
+   font-size: 200px;
+   color:white;
+   cursor: pointer;
+}
+h1:hover{
+    color:black;
+}
